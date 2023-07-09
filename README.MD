@@ -1,4 +1,6 @@
-<img src="logo.png" height="200" width="400">
+<div style="padding: 10px; width: calc(100% - 20px); height: 500px;">
+  <img src="logo.png" style="width: 100%; height: 100%;" alt="Logo">
+</div>
 
 <h3 align="center"> MERN Developer, Open source Enthusiast ,Competitive Programmer with a Passion for Problem Solving, Curious CS Undergrad 2024 from India</h3>
 
