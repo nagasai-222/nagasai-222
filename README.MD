@@ -1,4 +1,5 @@
-<img src="logo.png"/>
+<img src="logo.png" height="200" width="400">
+
 <h3 align="center"> MERN Developer, Open source Enthusiast ,Competitive Programmer with a Passion for Problem Solving, Curious CS Undergrad 2024 from India</h3>
 
 - 🌱 I’m Proficient developer in *MERN STACK*
