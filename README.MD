@@ -1,5 +1,5 @@
 <img src="logo.png" alt="Logo">
-<h3 align="center"> Curious CS undergrad (Class of 2024) from India, skilled in MERN development, passionate about open-source, competitive programming, and problem-solving.</h3>
+<h3 align="center"> </h3>
 
 - 🌱 I’m Proficient at *MERN STACK*
 
